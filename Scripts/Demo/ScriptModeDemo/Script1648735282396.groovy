@@ -32,6 +32,8 @@ WebUI.verifyTextPresent('Welcome', false)
 
 WebUI.comment(new HalloSelenium().getNumber(333).toString());
 
+WebUI.comment(new HalloSelenium().getNumber(333).toString());
+
 WebUI.closeBrowser()
 
 HalloSelenium.main();
