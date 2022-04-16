@@ -22,5 +22,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Demo/ScriptModeDemo</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b1a43424-8eed-45a2-b346-d004d9412aeb</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

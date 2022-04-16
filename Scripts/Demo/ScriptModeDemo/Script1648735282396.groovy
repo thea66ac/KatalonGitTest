@@ -35,4 +35,3 @@ WebUI.comment(new HalloSelenium().getNumber(333).toString());
 WebUI.closeBrowser()
 
 HalloSelenium.main();
-
